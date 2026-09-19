@@ -105,8 +105,8 @@ input, select, textarea {
  cover;
 		background-attachment: fixed,
  fixed;
-		background-position: center,
- center;
+		background-position: center top,
+ center top;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
